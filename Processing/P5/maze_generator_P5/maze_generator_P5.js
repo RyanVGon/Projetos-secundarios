@@ -48,7 +48,7 @@ function draw() {
     current.visited = true;
     current.highlight();
     //check for the presence of neighbors and if there is a neighbor
-    let next = current.checkNeighbors();
+    let next = current.checkNeighbors(false, 0);
     if (next) {
       //move the current cell to the stack, remove the walls between the current cell and the next, visit the next cell
       next.visited = true;
