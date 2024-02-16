@@ -1,14 +1,14 @@
-Algumas coisa que precisa saber para poder entender esse codigo.
+Algumas coisas que precisa saber para poder entender esse código.
 
--as "regras" ficam guardadas em arquivos txt, basta copiar e colar no lugar das regras anteriores para trocar
+As "regras" ficam guardadas em arquivos txt, basta copiar e colar no lugar das regras anteriores para trocar.
 
--a regra padrão é para o automata de byl
+A regra padrão é para o autômato de byl.
 
--espaço pausa a simulação e permite que adicione "celulas"
+Espaço pausa a simulação e permite que adicione "células".
 
--com a simlação pausada voce pode utilizar os botões de 0-7 para alterar o tipo de "celula"
+Com a simulação pausada, você pode utilizar os botões de 0 a 7 para alterar o tipo de "célula".
 
--abaixo algumas imagens para demonstrar os automatas
+Abaixo algumas imagens para demonstrar os autômatos.
 
 Langton's loop:
 
